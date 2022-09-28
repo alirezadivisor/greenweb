@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546648411015",
+    "project_id": "greentactic-ef43a",
+    "storage_bucket": "greentactic-ef43a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546648411015:android:69fe0a91bec3e9ed99e122",
+        "android_client_info": {
+          "package_name": "com.vandaw.greentactic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546648411015-bcc521fd7pfonn5greodbh8mihpusi2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwi8Ix7UJIU7Mt6CCJHW4V5lb8aWSBT9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546648411015-bcc521fd7pfonn5greodbh8mihpusi2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
